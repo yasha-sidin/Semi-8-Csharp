@@ -1,0 +1,15 @@
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинары\Семинар 8\Task_2\obj\Debug\net7.0\Task_2.csproj.AssemblyReference.cache
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинары\Семинар 8\Task_2\obj\Debug\net7.0\Task_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинары\Семинар 8\Task_2\obj\Debug\net7.0\Task_2.AssemblyInfoInputs.cache
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинары\Семинар 8\Task_2\obj\Debug\net7.0\Task_2.AssemblyInfo.cs
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинары\Семинар 8\Task_2\obj\Debug\net7.0\Task_2.csproj.CoreCompileInputs.cache
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинары\Семинар 8\Task_2\bin\Debug\net7.0\Task_2.exe
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинары\Семинар 8\Task_2\bin\Debug\net7.0\Task_2.deps.json
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинары\Семинар 8\Task_2\bin\Debug\net7.0\Task_2.runtimeconfig.json
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинары\Семинар 8\Task_2\bin\Debug\net7.0\Task_2.dll
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинары\Семинар 8\Task_2\bin\Debug\net7.0\Task_2.pdb
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинары\Семинар 8\Task_2\obj\Debug\net7.0\Task_2.dll
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинары\Семинар 8\Task_2\obj\Debug\net7.0\refint\Task_2.dll
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинары\Семинар 8\Task_2\obj\Debug\net7.0\Task_2.pdb
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинары\Семинар 8\Task_2\obj\Debug\net7.0\Task_2.genruntimeconfig.cache
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинары\Семинар 8\Task_2\obj\Debug\net7.0\ref\Task_2.dll
